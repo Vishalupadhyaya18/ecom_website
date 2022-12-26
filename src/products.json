@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "brandName": "Hewlett-Packard",
+        "productName": "Book",
+        "price": 100,
+        "image": "images/book.jpg",
+        "offer": "none"
+    },
+    {
+        "id":2,
+        "brandName": "Piaget",
+        "productName": "Watch",
+        "price": 10000,
+        "image": "images/watch.jpg",
+        "offer": "none2"
+    },
+    {
+        "id":3,
+        "brandName": "Casio",
+        "productName": "Wall Clock",
+        "price": 15000,
+        "image": "images/wallclock.jpeg",
+        "offer": "none2"
+    },
+    {
+        "id":4,
+        "brandName": "HP Spectre x360 14",
+        "productName": "Laptop",
+        "price": 1000000,
+        "image": "images/laptop.jpg",
+        "offer": "none2"
+    },
+    {
+        "id":5,
+        "brandName": "LG",
+        "productName": "Telivision",
+        "price": 50000,
+        "image": "images/TV.jpg",
+        "offer": "none2"
+    },
+    {
+        "id":6,
+        "brandName": "Hermes",
+        "productName": "Bag",
+        "price": 14000,
+        "image": "images/bag.jpg",
+        "offer": "none2"
+    },
+    {
+        "id":7,
+        "brandName": "Huawei",
+        "productName": "Phone",
+        "price": 30000,
+        "image": "images/phone.jpg",
+        "offer": "none2"
+    },
+    {
+        "id":8,
+        "brandName": "Wakefit Engineered Wood",
+        "productName": "Table",
+        "price": 10000,
+        "image": "images/table.jpg",
+        "offer": "none2"
+    }
+] 
